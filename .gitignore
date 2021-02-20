@@ -23,7 +23,7 @@
 hs_err_pid*
 
 # Temp directory or file
-*.*
+.*
 bin
 out
 data
