@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
-  <component name="EclipseModuleManager">
-    <libelement value="jar://$MODULE_DIR$/../../../GitRepo/mpwk/Algo4/algs4.jar!/" />
-    <src_description expected_position="0">
-      <src_folder value="file://$MODULE_DIR$/Chapter01Basis" expected_position="0" />
-    </src_description>
-  </component>
-  <component name="NewModuleRootManager">
-    <output url="file://$MODULE_DIR$/bin" />
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Chapter01Basis" isTestSource="false" />

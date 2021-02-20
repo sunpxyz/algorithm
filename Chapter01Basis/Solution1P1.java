@@ -1,5 +1,3 @@
-import edu.princeton.cs.algs4.In;
-
 /**
  * Chapter01Basis/Solution1P1.java
  * 2021/01/26
