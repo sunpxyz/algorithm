@@ -1,5 +1,5 @@
 /**
- * Chapter01Basis/TestDraw.java
+ * ch01Basis/TestDraw.java
  * 2021/01/25
  */
 

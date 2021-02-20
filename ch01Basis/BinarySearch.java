@@ -1,5 +1,5 @@
 /**
- * Chapter01Basis/BinarySearch.java
+ * ch01Basis/BinarySearch.java
  * 2021/01/07
  */
 

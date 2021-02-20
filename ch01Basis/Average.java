@@ -1,5 +1,5 @@
 /**
- * Chapter01Basis/Average.java
+ * ch01Basis/Average.java
  * 2021/01/24
  */
 

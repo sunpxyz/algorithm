@@ -1,5 +1,5 @@
 /**
- * Chapter01Basis/Solution1P1.java
+ * ch01Basis/Solution1P1.java
  * 2021/01/26
  */
 

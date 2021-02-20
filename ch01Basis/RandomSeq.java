@@ -1,5 +1,5 @@
 /**
- * Chapter01Basis/RandomSeq.java
+ * ch01Basis/RandomSeq.java
  * 2021/01/17
  */
 
